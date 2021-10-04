@@ -8,7 +8,7 @@ public class Main {
             vehicles[1] = new Car();
             vehicles[2] = new Glider();
             vehicles[3] = new Moto();
-            vehicles[2].fly("vent") // TODO MARCHE PAS ALED
+            vehicles[2].fly("vent"); // TODO MARCHE PAS ALED
 
 
         Flyable[] flyables= {new Glider(),new Moto()};
